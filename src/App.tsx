@@ -5,6 +5,7 @@ import './App.css';
 import aa from '../package.json'
 
 function App() {
+  console.log('asda')
   return (
     <div className="App">
       <header className="App-header">
