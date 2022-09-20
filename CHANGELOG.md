@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/JanSzewczyk/cra-gh-pages/compare/v1.0.1...v1.0.2) (2022-09-20)
+
+
+### Bug Fixes
+
+* fix ci ([f61505a](https://github.com/JanSzewczyk/cra-gh-pages/commit/f61505a8ec4e7087dd78c6e909d5ad59be0ed3bd))
+
 ## [1.0.1](https://github.com/JanSzewczyk/cra-gh-pages/compare/v1.0.0...v1.0.1) (2022-09-20)
 
 
