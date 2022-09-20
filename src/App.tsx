@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import aa from '../package.json'
+
 function App() {
   return (
     <div className="App">
@@ -10,7 +12,6 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
           <br />
-          New feature 1.2
         </p>
         <a
           className="App-link"
@@ -20,6 +21,7 @@ function App() {
         >
           Learn React
         </a>
+        <p className="App-version">Version: {aa.version}</p>
       </header>
     </div>
   );
